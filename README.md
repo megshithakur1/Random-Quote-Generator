@@ -7,6 +7,6 @@ The below user stories are fulfilled. APIs are used.</br >
 
 2. User Story: Press a button to tweet out a quote.</br >
 
-![My picture](https://github.com/megshithakur1/Random-Quote-Generator/blob/master/Screenshots/1.png)
+
 
 ![My picture](https://github.com/megshithakur1/Random-Quote-Generator/blob/master/Screenshots/2.png)
